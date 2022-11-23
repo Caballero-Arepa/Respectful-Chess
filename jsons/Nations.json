@@ -1,3 +1,50 @@
 [
+     { 	
+        "name": "Blacks",
+ 	"leaderName": "Black King",
+ 	"adjective": ["Blacks"],
+ 	"outerColor": [1,2,1],
+ 	"innerColor": [225,225,225],
 
+ 	"startIntroPart1": "intro",
+ 	"startIntroPart2": "close",
+
+ 	"introduction": "Speech?",
+ 	"declaringWar": "Frase",
+ 	"attacked": "Frase",
+ 	"afterPeace": "Frase",
+ 	"defeated": "Speech",
+ 	"neutralHello": "Greetings",
+ 	"hateHello": "frase",
+ 	"tradeRequest": "Asking for trade",
+ 		
+ 	"uniqueName": "Black Pieces",
+ 	"uniques": ["Nation Unique"],
+
+ 	"cities": ["E8","D8","C8","E7"]
+ 	},
+     { 	
+        "name": "Whites",
+ 	"leaderName": "White King",
+ 	"adjective": ["Whites"],
+ 	"outerColor": [223,225,221],
+ 	"innerColor": [1,2,3],
+
+ 	"startIntroPart1": "intro",
+ 	"startIntroPart2": "close",
+
+ 	"introduction": "Speech?",
+ 	"declaringWar": "Frase",
+ 	"attacked": "Frase",
+ 	"afterPeace": "Frase",
+ 	"defeated": "Speech",
+ 	"neutralHello": "Greetings",
+ 	"hateHello": "frase",
+ 	"tradeRequest": "Asking for trade",
+ 		
+ 	"uniqueName": "Whites Move First",
+ 	"uniques": ["Nation Unique"],
+
+ 	"cities": ["E1","D1","E2","D2"]
+ 	},
 ]
