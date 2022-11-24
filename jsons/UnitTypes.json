@@ -2,6 +2,6 @@
     {
         "name": "Chess Piece",
         "movementType": "Land"
-        "uniques": ["[+200]% Strength <vs [Chess Piece] units>"],
+        "uniques": ["[+500]% Strength <vs [Chess Piece] units> <when attacking>","Heals [amount] damage if it kills a unit"],
     },
 ]

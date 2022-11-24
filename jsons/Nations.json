@@ -5,6 +5,7 @@
  	"adjective": ["Blacks"],
  	"outerColor": [1,2,1],
  	"innerColor": [225,225,225],
+	"style": "Black",
 
  	"startIntroPart1": "intro",
  	"startIntroPart2": "close",
@@ -19,7 +20,7 @@
  	"tradeRequest": "Asking for trade",
  		
  	"uniqueName": "Black Pieces",
- 	"uniques": ["Nation Unique"],
+ 	"uniques": ["Black pieces"],
 
  	"cities": ["E8","D8","C8","E7"]
  	},
@@ -29,6 +30,7 @@
  	"adjective": ["Whites"],
  	"outerColor": [223,225,221],
  	"innerColor": [1,2,3],
+	"style": "White",
 
  	"startIntroPart1": "intro",
  	"startIntroPart2": "close",
@@ -43,7 +45,7 @@
  	"tradeRequest": "Asking for trade",
  		
  	"uniqueName": "Whites Move First",
- 	"uniques": ["Nation Unique"],
+ 	"uniques": ["White pieces"],
 
  	"cities": ["E1","D1","E2","D2"]
  	},
