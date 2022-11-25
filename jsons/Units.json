@@ -40,6 +40,6 @@
  	"movement": 1,
  	"strength": 1,
  	"cost": 1,
-        "uniques": ["[+8] Sight"],
+        "uniques": ["[+9] Sight"],
  },
 ]
