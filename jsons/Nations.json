@@ -49,4 +49,30 @@
 
  	"cities": ["E1","D1","E2","D2"]
  	},
+     { 	
+        "name": "Black",
+ 	"leaderName": "Black King",
+ 	"adjective": ["Blacks"],
+ 	"outerColor": [1,2,1],
+ 	"innerColor": [225,225,225],
+	"style": "Black",
+ 		
+ 	"uniqueName": "Black Pieces",
+ 	"uniques": ["Black pieces"],
+
+ 	"cities": ["E8","D8","C8","E7"]
+ 	},
+     { 	
+        "name": "White",
+ 	"leaderName": "White King",
+ 	"adjective": ["Whites"],
+ 	"outerColor": [223,225,221],
+ 	"innerColor": [1,2,3],
+	"style": "White",
+	     
+ 	"uniqueName": "Whites Move First",
+ 	"uniques": ["White pieces"],
+
+ 	"cities": ["E1","D1","E2","D2"]
+ 	},
 ]
