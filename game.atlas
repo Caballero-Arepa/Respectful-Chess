@@ -1,21 +1,105 @@
 
 game.png
-size: 2048, 256
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Blacks
   rotate: false
-  xy: 1252, 140
+  xy: 1144, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Whites
   rotate: false
-  xy: 1252, 140
+  xy: 1144, 96
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Bishop-Black
+  rotate: false
+  xy: 4, 720
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Bishop-White
+  rotate: false
+  xy: 4, 412
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/King-Black
+  rotate: false
+  xy: 312, 720
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/King-White
+  rotate: false
+  xy: 4, 104
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Knight-Black
+  rotate: false
+  xy: 312, 412
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Knight-White
+  rotate: false
+  xy: 620, 720
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pawn-Black
+  rotate: false
+  xy: 312, 104
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pawn-White
+  rotate: false
+  xy: 620, 412
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Queen-Black
+  rotate: false
+  xy: 928, 720
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Queen-White
+  rotate: false
+  xy: 620, 104
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rook-Black
+  rotate: false
+  xy: 928, 412
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rook-White
+  rotate: false
+  xy: 1236, 720
+  size: 300, 300
+  orig: 300, 300
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bishop-Black
@@ -27,14 +111,14 @@ TileSets/FantasyHex/Units/Bishop-Black
   index: -1
 TileSets/FantasyHex/Units/Bishop-White
   rotate: false
-  xy: 1252, 104
+  xy: 1544, 720
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/King-Black
   rotate: false
-  xy: 1360, 212
+  xy: 1236, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -48,98 +132,266 @@ TileSets/FantasyHex/Units/King-White
   index: -1
 TileSets/FantasyHex/Units/Knight-Black
   rotate: false
-  xy: 1252, 68
+  xy: 1276, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-White
   rotate: false
-  xy: 1292, 104
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pawn-Black
   rotate: false
-  xy: 1360, 176
+  xy: 124, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pawn-White
   rotate: false
-  xy: 1400, 212
+  xy: 164, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Queen-Black
   rotate: false
-  xy: 84, 4
+  xy: 204, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Queen-White
   rotate: false
-  xy: 1292, 68
+  xy: 244, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rook-Black
   rotate: false
-  xy: 1360, 140
+  xy: 1584, 720
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rook-White
   rotate: false
-  xy: 1332, 104
+  xy: 1316, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-UnitIcons/Bishop
+TileSets/HexaRealm/Units/Bishop-Black
   rotate: false
   xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bishop-White
+  rotate: false
+  xy: 1544, 756
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/King-Black
+  rotate: false
+  xy: 1236, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/King-White
+  rotate: false
+  xy: 1960, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Knight-Black
+  rotate: false
+  xy: 1868, 540
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Knight-White
+  rotate: false
+  xy: 76, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pawn-Black
+  rotate: false
+  xy: 1308, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pawn-White
+  rotate: false
+  xy: 1960, 900
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Queen-Black
+  rotate: false
+  xy: 148, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Queen-White
+  rotate: false
+  xy: 1380, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rook-Black
+  rotate: false
+  xy: 1960, 836
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rook-White
+  rotate: false
+  xy: 220, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Bishop-Black
+  rotate: false
+  xy: 928, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Bishop-White
+  rotate: false
+  xy: 1036, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/King-Black
+  rotate: false
+  xy: 1252, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/King-White
+  rotate: false
+  xy: 1652, 712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Knight-Black
+  rotate: false
+  xy: 1652, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Knight-White
+  rotate: false
+  xy: 1760, 712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Pawn-Black
+  rotate: false
+  xy: 1760, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Pawn-White
+  rotate: false
+  xy: 1452, 444
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Queen-Black
+  rotate: false
+  xy: 1652, 496
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Queen-White
+  rotate: false
+  xy: 1760, 496
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Rook-Black
+  rotate: false
+  xy: 1868, 712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/Minimal/Units/Rook-White
+  rotate: false
+  xy: 1868, 604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bishop
+  rotate: false
+  xy: 928, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/King
   rotate: false
-  xy: 212, 40
+  xy: 1236, 512
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Knight
   rotate: false
-  xy: 420, 40
+  xy: 1544, 820
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Pawn
   rotate: false
-  xy: 628, 40
+  xy: 1752, 820
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Queen
   rotate: false
-  xy: 836, 40
+  xy: 1136, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Rook
   rotate: false
-  xy: 1044, 40
+  xy: 1444, 512
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
