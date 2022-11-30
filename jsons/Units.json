@@ -37,7 +37,7 @@
 {
  	"name": "King",
  	"unitType": "Chess Piece",
- 	"movement": 1,
+ 	"movement": 4,
  	"strength": 1,
  	"cost": 1,
         "uniques": ["[+9] Sight"],
