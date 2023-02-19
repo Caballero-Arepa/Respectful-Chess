@@ -20,7 +20,7 @@
  	"tradeRequest": "Asking for trade",
  		
  	"uniqueName": "Black Pieces",
- 	"uniques": ["Black pieces"],
+ 	"uniques": ["Black pieces", "[16] units cost no maintenance"],
 
  	"cities": ["E8","D8","C8","E7"]
  	},
@@ -45,7 +45,7 @@
  	"tradeRequest": "Asking for trade",
  		
  	"uniqueName": "Whites Move First",
- 	"uniques": ["White pieces"],
+ 	"uniques": ["White pieces", "[16] units cost no maintenance"],
 
  	"cities": ["E1","D1","E2","D2"]
  	},
@@ -58,7 +58,7 @@
 	"style": "Black",
  		
  	"uniqueName": "Black Pieces",
- 	"uniques": ["Black pieces"],
+ 	"uniques": ["Black pieces", "[16] units cost no maintenance"],
 
  	"cities": ["E8","D8","C8","E7"]
  	},
@@ -71,7 +71,7 @@
 	"style": "White",
 	     
  	"uniqueName": "Whites Move First",
- 	"uniques": ["White pieces"],
+ 	"uniques": ["White pieces", "[16] units cost no maintenance"],
 
  	"cities": ["E1","D1","E2","D2"]
  	},
